@@ -1,25 +1,25 @@
 # Proyecto-Limpieza-Familiar
 
-#Este proyecto consiste en el desarrollo de un dashboard interactivo creado con Python y Streamlit, cuyo objetivo es organizar, asignar y dar seguimiento a las tareas del hogar mediante un #sistema de puntos, actividades y recompensas.
+#Este proyecto consiste en el desarrollo de un dashboard interactivo creado con Python y Streamlit, este proyecto surge por la necesidad de orden y limpieza en el hogar cuyo objetivo es organizar, asignar y dar seguimiento a las tareas del hogar mediante un sistema de puntos, actividades y recompensas.
 
-#La aplicación permite llevar un registro de las actividades diarias y especiales realizadas por los integrantes de la familia, promoviendo la organización, la participación y la colaboración #en las responsabilidades del hogar.
+#La aplicación permite llevar un registro de las tareas diarias y especiales del hogar realizadas por los integrantes de la familia, promoviendo la organización, la participación y la colaboración en las responsabilidades del hogar.
 
 #La aplicacion cuenta con 5 funciones principales:
 
 #1.
-#Hoy: Permite visualizar las tareas correspondientes al día, asignar quién realizó cada actividad y marcar las tareas especiales como completadas.
+#Hoy: Permite ver las tareas correspondientes del día, asignar quién realizó cada actividad y marcar las tareas especiales como completadas.
 
 #2.
 #Semana: Muestra un resumen semanal de las actividades realizadas por cada integrante de la familia.
 
 #3.
-#Ruleta: Permite asignar aleatoriamente las actividades especiales entre los participantes. Incluye una modalidad de ruleta justa que otorga mayor probabilidad a quienes han realizado #menos #actividades especiales durante la semana.
+#Ruleta: Permite asignar aleatoriamente las actividades especiales entre los integrantes que participen. Incluye una modo  de ruleta que otorga mayor probabilidad a quienes han realizado menos actividades especiales durante la semana.
 
 #4.
-#Reportes: Presenta indicadores y gráficos para visualizar el desempeño, los puntos acumulados y las actividades completadas.
+#Reportes: Presenta gráficos para ver quien tiene mas participacion, los puntos acumulados y las actividades completadas.
 
 #5.
-#Premios: Permite consultar los puntos disponibles y canjearlos por diferentes recompensas. También permite agregar nuevos premios al sistema.
+#Premios: Permite ver los puntos disponibles y canjearlos por diferentes recompensas. También permite agregar nuevos premios al sistema.
 
 
 #Tecnologias usadas:
