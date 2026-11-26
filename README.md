@@ -31,6 +31,6 @@ Este proyecto se encuentra en una etapa de aprendizaje y experimentación.
 
 Actualmente estoy desarrollando mis conocimientos en Streamlit.
 
-Durante el proceso utilice herramientas de inteligencia artificial como apoyo para comprender y generar algunas partes del codigo.
+Durante el proceso utilice herramientas de inteligencia artificial como apoyo para comprender el codigo.
 
 El objetivo no es solamente obtener una aplicación funcional, sino también comprender cómo está construida y aprender de cada modificación realizada.
