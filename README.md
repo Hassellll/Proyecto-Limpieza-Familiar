@@ -6,35 +6,35 @@ La aplicación permite llevar un registro de las tareas diarias y especiales del
 
 La aplicacion cuenta con 5 funciones principales:
 
-#1.
+1.
 #Hoy: Permite ver las tareas correspondientes del día, asignar quién realizó cada actividad y marcar las tareas especiales como completadas.
 
-#2.
+2.
 #Semana: Muestra un resumen semanal de las actividades realizadas por cada integrante de la familia.
 
-#3.
+3.
 #Ruleta: Permite asignar aleatoriamente las actividades especiales entre los integrantes que participen. Incluye una modo  de ruleta que otorga mayor probabilidad a quienes han realizado menos actividades especiales durante la semana.
 
-#4.
+4.
 #Reportes: Presenta gráficos para ver quien tiene mas participacion, los puntos acumulados y las actividades completadas.
 
-#5.
+5.
 #Premios: Permite ver los puntos disponibles y canjearlos por diferentes recompensas. También permite agregar nuevos premios al sistema.
 
 
-#Tecnologias usadas:
+Tecnologias usadas:
 
-#Streamlit
-#Python
-#SQLite
-#Pandas
-#Altair
-#Github
+Streamlit
+Python
+SQLite
+Pandas
+Altair
+Github
 
-#Este proyecto se encuentra en una etapa de aprendizaje y experimentación.
+Este proyecto se encuentra en una etapa de aprendizaje y experimentación.
 
-#Actualmente estoy desarrollando mis conocimientos en Streamlit.
+Actualmente estoy desarrollando mis conocimientos en Streamlit.
 
-#Durante el proceso utilice herramientas de inteligencia artificial como apoyo para comprender y generar algunas partes del codigo.
+Durante el proceso utilice herramientas de inteligencia artificial como apoyo para comprender y generar algunas partes del codigo.
 
-#El objetivo no es solamente obtener una aplicación funcional, sino también comprender cómo está construida y aprender de cada modificación realizada.
+El objetivo no es solamente obtener una aplicación funcional, sino también comprender cómo está construida y aprender de cada modificación realizada.
