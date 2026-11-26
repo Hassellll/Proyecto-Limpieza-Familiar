@@ -1,10 +1,10 @@
 # Proyecto-Limpieza-Familiar
 
-#Este proyecto consiste en el desarrollo de un dashboard interactivo creado con Python y Streamlit, este proyecto surge por la necesidad de orden y limpieza en el hogar cuyo objetivo es organizar, asignar y dar seguimiento a las tareas del hogar mediante un sistema de puntos, actividades y recompensas.
+Este proyecto consiste en el desarrollo de un dashboard interactivo creado con Python y Streamlit, este proyecto surge por la necesidad de orden y limpieza en el hogar cuyo objetivo es organizar, asignar y dar seguimiento a las tareas del hogar mediante un sistema de puntos, actividades y recompensas.
 
-#La aplicación permite llevar un registro de las tareas diarias y especiales del hogar realizadas por los integrantes de la familia, promoviendo la organización, la participación y la colaboración en las responsabilidades del hogar.
+La aplicación permite llevar un registro de las tareas diarias y especiales del hogar realizadas por los integrantes de la familia, promoviendo la organización, la participación y la colaboración en las responsabilidades del hogar.
 
-#La aplicacion cuenta con 5 funciones principales:
+La aplicacion cuenta con 5 funciones principales:
 
 #1.
 #Hoy: Permite ver las tareas correspondientes del día, asignar quién realizó cada actividad y marcar las tareas especiales como completadas.
